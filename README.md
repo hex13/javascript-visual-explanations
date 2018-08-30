@@ -66,4 +66,7 @@ Tools
 * [JavaScript AST Visualizer](http://resources.jointjs.com/demos/javascript-ast)
 * [AST Explorer](https://astexplorer.net/)
 * [Madge - Create graphs from your CommonJS, AMD or ES6 module dependencies](https://github.com/pahen/madge)
+* [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)
+* [Regexly](https://regexly.chipto.io/)
 * [Webpack Visualizer](https://chrisbateman.github.io/webpack-visualizer/)
+
