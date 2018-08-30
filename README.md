@@ -21,6 +21,7 @@ Reactive programming
 
 React
 * [Lifecycle Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+* [Brief Overview of React Fiber - A Tutorial on its Features and Advantages](https://www.youtube.com/watch?v=0fUmOPQUv-Q)
 * [Lin Clark - A Cartoon Intro to Fiber - React Conf 2017](https://www.youtube.com/watch?v=ZCuYPiUIONs)
 * [Lin Clark: A cartoon guide to performance in React - JSConf Iceland 2016](https://www.youtube.com/watch?v=NGxVLnJKhP8)
 * [React and the Virtual DOM](https://www.youtube.com/watch?v=BYbgopx44vo)
