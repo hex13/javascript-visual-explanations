@@ -12,6 +12,9 @@ General programming / JavaScript
 * [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 * [Javascript (ES6) Generators — Part I: Understanding Generators](https://medium.com/@hidace/javascript-es6-generators-part-i-understanding-generators-93dea22bf1b)
 
+Node.js
+* [You Got This! Zine - Making web apps with Node.js](https://glitch.com/you-got-this/)
+
 Reactive programming
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 * [Learn RxJS and Reactive Programming principles](https://reactive.how/)
@@ -22,6 +25,7 @@ Reactive programming
 React
 * [Lifecycle Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 * [Brief Overview of React Fiber - A Tutorial on its Features and Advantages](https://www.youtube.com/watch?v=0fUmOPQUv-Q)
+* [You Got This! Zine - Making web apps with React.js](https://glitch.com/you-got-this/2)
 * [Lin Clark - A Cartoon Intro to Fiber - React Conf 2017](https://www.youtube.com/watch?v=ZCuYPiUIONs)
 * [Lin Clark: A cartoon guide to performance in React - JSConf Iceland 2016](https://www.youtube.com/watch?v=NGxVLnJKhP8)
 * [React and the Virtual DOM](https://www.youtube.com/watch?v=BYbgopx44vo)
@@ -59,6 +63,7 @@ Immutable.js
 HTML/CSS
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+* [Explaining CSS Specificity — Estelle Weyl — Frontend Masters](https://www.youtube.com/watch?v=SLC83iesr60)
 * [Grid by Example](https://gridbyexample.com/examples/)
 * [Guidelines - Material Design](https://material.io/design/guidelines-overview/)
 
