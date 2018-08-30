@@ -56,6 +56,8 @@ HTML/CSS
 * [Guidelines - Material Design](https://material.io/design/guidelines-overview/)
 
 Tools
+* [JavaScript Tutor - Visualize JavaScript code execution to learn JavaScript online](http://www.pythontutor.com/javascript.html#mode=edit) 
+* [JavaScript AST Visualizer](http://resources.jointjs.com/demos/javascript-ast)
 * [AST Explorer](https://astexplorer.net/)
 * [Madge - Create graphs from your CommonJS, AMD or ES6 module dependencies](https://github.com/pahen/madge)
 * [Webpack Visualizer](https://chrisbateman.github.io/webpack-visualizer/)
