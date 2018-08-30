@@ -1,4 +1,4 @@
-JavaScript explained visually
+# Javascript Visual Explanations 
 
 This repo contains links to pages in which concepts from JavaScript/frontend ecosystem are explained visually (pictures, diagrams, animations etc.)
 
