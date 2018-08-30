@@ -36,6 +36,9 @@ Redux
 Vue
 * [Lifecycle Diagram](https://vuejs.org/v2/guide/instance.html#Lifecycle-Diagram)
 
+Angular
+* [@Self or @Optional @Host? The visual guide to Angular DI decorators](https://medium.com/frontend-coach/self-or-optional-host-the-visual-guide-to-angular-di-decorators-73fbbb5c8658)
+
 WebAssembly
 * [Lin Clark: A Cartoon Intro to WebAssembly | JSConf EU 2017](https://www.youtube.com/watch?v=HktWin_LPf4)
 * [Online Module Summit Part 8: Lin Clark on Web Assembly and ESModules](https://www.youtube.com/watch?v=cKRg6H5_aRE)
