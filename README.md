@@ -52,6 +52,10 @@ Flux
 Relay
 * [A cartoon intro to Facebook's Relay](https://code-cartoons.com/a-cartoon-intro-to-facebook-s-relay-part-1-3ec1a127bca5)
 
+Immutable.js
+* [Immutable.js Tutorial - The Advantages of Using Immutable.js](https://www.youtube.com/watch?v=cHKG4b2XNig)
+* [Using Immutable js With React](https://www.youtube.com/watch?v=D70Bk_PWmEE)
+
 HTML/CSS
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
