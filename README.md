@@ -59,6 +59,7 @@ Immutable.js
 HTML/CSS
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+* [Grid by Example](https://gridbyexample.com/examples/)
 * [Guidelines - Material Design](https://material.io/design/guidelines-overview/)
 
 Tools
