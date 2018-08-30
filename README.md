@@ -69,9 +69,10 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 * [Using Immutable js With React](https://www.youtube.com/watch?v=D70Bk_PWmEE)
 
 ## HTML/CSS
-* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Explaining CSS Specificity — Estelle Weyl — Frontend Masters](https://www.youtube.com/watch?v=SLC83iesr60)
 * [Guidelines - Material Design](https://material.io/design/guidelines-overview/)
+#### Flex
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 #### Grid
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [Grid by Example](https://gridbyexample.com/examples/)
