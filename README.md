@@ -2,6 +2,21 @@
 
 This repo contains links to pages in which concepts from JavaScript/frontend ecosystem are explained visually (pictures, diagrams, animations etc.)
 
+  * [General programming / JavaScript](#general-programming--javascript)
+  * [Gamedev](#gamedev)
+  * [Reactive programming](#reactive-programming)
+  * [React](#react)
+  * [Redux](#redux)
+  * [Vue](#vue)
+  * [Angular](#angular)
+  * [Flux](#flux)
+  * [Relay](#relay)
+  * [Immutable.js](#immutablejs)
+  * [WebAssembly](#webassembly)
+  * [Node.js](#nodejs)
+  * [HTML/CSS](#htmlcss)
+  * [Tools](#tools)
+
 
 ## General programming / JavaScript 
 
@@ -17,8 +32,10 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 #### Functional Programming
 * [Javascript Functor, Applicative, Monads in pictures](https://medium.com/@tzehsiang/javascript-functor-applicative-monads-in-pictures-b567c6415221)
 
-## Node.js
-* [You Got This! Zine - Making web apps with Node.js](https://glitch.com/you-got-this/)
+## Gamedev
+* [A-STAR Pathfinding AI for HTML5 Canvas Games](http://buildnewgames.com/astar/)
+* [Broad Phase Collision Detection Using Spatial Partitioning](http://buildnewgames.com/broad-phase-collision-detection/)
+* [Particle Systems From the Ground Up](http://buildnewgames.com/particle-systems/)
 
 ## Reactive programming
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
@@ -53,11 +70,6 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 ## Angular
 * [@Self or @Optional @Host? The visual guide to Angular DI decorators](https://medium.com/frontend-coach/self-or-optional-host-the-visual-guide-to-angular-di-decorators-73fbbb5c8658)
 
-## WebAssembly
-* [Lin Clark: A Cartoon Intro to WebAssembly | JSConf EU 2017](https://www.youtube.com/watch?v=HktWin_LPf4)
-* [Online Module Summit Part 8: Lin Clark on Web Assembly and ESModules](https://www.youtube.com/watch?v=cKRg6H5_aRE)
-* [WebAssembly ES module integration](https://www.youtube.com/watch?v=qR_b5gajwug)
-
 ## Flux
 * [A cartoon intro to Flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207)
 
@@ -67,6 +79,14 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 ## Immutable.js
 * [Immutable.js Tutorial - The Advantages of Using Immutable.js](https://www.youtube.com/watch?v=cHKG4b2XNig)
 * [Using Immutable js With React](https://www.youtube.com/watch?v=D70Bk_PWmEE)
+
+## WebAssembly
+* [Lin Clark: A Cartoon Intro to WebAssembly | JSConf EU 2017](https://www.youtube.com/watch?v=HktWin_LPf4)
+* [Online Module Summit Part 8: Lin Clark on Web Assembly and ESModules](https://www.youtube.com/watch?v=cKRg6H5_aRE)
+* [WebAssembly ES module integration](https://www.youtube.com/watch?v=qR_b5gajwug)
+
+## Node.js
+* [You Got This! Zine - Making web apps with Node.js](https://glitch.com/you-got-this/)
 
 ## HTML/CSS
 * [Explaining CSS Specificity — Estelle Weyl — Frontend Masters](https://www.youtube.com/watch?v=SLC83iesr60)
