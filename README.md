@@ -65,6 +65,9 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 * [Introduction to Redux](https://www.youtube.com/watch?v=ky4CzcSt2tQ)
 
 ## Vue
+* [Intro to Vue.js: Computed Properties](https://www.youtube.com/watch?v=NK-Cy4IHwI4)
+* [Intro to Vue: Communicating Events](https://www.youtube.com/watch?v=EYyHIMmilUY)
+* [Intro to Vue.js: The Vue Instance](https://www.youtube.com/watch?v=DyndGu0fPSE)
 * [Lifecycle Diagram](https://vuejs.org/v2/guide/instance.html#Lifecycle-Diagram)
 
 ## Angular
