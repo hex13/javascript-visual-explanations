@@ -104,8 +104,10 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 * [Guidelines - Material Design](https://material.io/design/guidelines-overview/)
 #### Flex
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Flexbox: The Animated Tutorial](https://medium.freecodecamp.org/flexbox-the-animated-tutorial-263e7d8864e5)
 #### Grid
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+* [CSS Grid — The Beginner’s Guide](https://medium.freecodecamp.org/css-grid-the-beginners-guide-45998e6f6b8)
 * [Grid by Example](https://gridbyexample.com/examples/)
 
 ## Tools
