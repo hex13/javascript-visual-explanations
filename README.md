@@ -13,6 +13,7 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
   * [Relay](#relay)
   * [Immutable.js](#immutablejs)
   * [WebAssembly](#webassembly)
+  * [WebGL](#webgl)
   * [Webpack](#webpack)
   * [Node.js](#nodejs)
   * [HTML/CSS](#htmlcss)
@@ -97,6 +98,9 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 * [Lin Clark: A Cartoon Intro to WebAssembly | JSConf EU 2017](https://www.youtube.com/watch?v=HktWin_LPf4)
 * [Online Module Summit Part 8: Lin Clark on Web Assembly and ESModules](https://www.youtube.com/watch?v=cKRg6H5_aRE)
 * [WebAssembly ES module integration](https://www.youtube.com/watch?v=qR_b5gajwug)
+
+## WebGl
+* [WebGL How It Works](https://webglfundamentals.org/webgl/lessons/webgl-how-it-works.html)
 
 ## Webpack
 
