@@ -13,6 +13,7 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
   * [Relay](#relay)
   * [Immutable.js](#immutablejs)
   * [WebAssembly](#webassembly)
+  * [Webpack](#webpack)
   * [Node.js](#nodejs)
   * [HTML/CSS](#htmlcss)
   * [Tools](#tools)
@@ -87,6 +88,13 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 * [Lin Clark: A Cartoon Intro to WebAssembly | JSConf EU 2017](https://www.youtube.com/watch?v=HktWin_LPf4)
 * [Online Module Summit Part 8: Lin Clark on Web Assembly and ESModules](https://www.youtube.com/watch?v=cKRg6H5_aRE)
 * [WebAssembly ES module integration](https://www.youtube.com/watch?v=qR_b5gajwug)
+
+## Webpack
+
+* [Front End Center — Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
+* [Sean Larkin: Webpack: The Core Concepts - NEJS Conf 2016](https://www.youtube.com/watch?v=AZPYL30ozCY)
+* [Webpack & The Hot Module Replacement](https://medium.com/@rajaraodv/webpack-hot-module-replacement-hmr-e756a726a07)
+* [Webpack — The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9)
 
 ## Node.js
 * [You Got This! Zine - Making web apps with Node.js](https://glitch.com/you-got-this/)
