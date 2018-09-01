@@ -23,7 +23,6 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 
 * [CodeAnalogies Blog - Visual explanations of HTML, CSS and JavaScript concepts](https://blog.codeanalogies.com/)
 * [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
-* [How does HTTPS provide Encryption? | The Curious Engineer](https://www.youtube.com/watch?v=w0QbnxKRD0w)
 * [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 * [Javascript (ES6) Generators — Part I: Understanding Generators](https://medium.com/@hidace/javascript-es6-generators-part-i-understanding-generators-93dea22bf1b)
 
@@ -33,6 +32,13 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 
 #### Functional Programming
 * [Javascript Functor, Applicative, Monads in pictures](https://medium.com/@tzehsiang/javascript-functor-applicative-monads-in-pictures-b567c6415221)
+
+#### Web protocols
+* [HTTP2 and Front-End Performance with Mark Nottingham](https://www.youtube.com/watch?v=GIDXISQs67w)
+* [How does HTTPS provide Encryption? | The Curious Engineer](https://www.youtube.com/watch?v=w0QbnxKRD0w)
+* [How Http/2 works | Http/2 Optimize Website Performance](https://www.youtube.com/watch?v=RjnNaKLfjEU)
+* [SSL TLS HTTPS process explained in 7 minutes](https://www.youtube.com/watch?v=4nGrOpo0Cuc)
+* [What is HTTP2?](https://www.youtube.com/watch?v=WfA1uDAgXf8)
 
 ## Gamedev
 * [A-STAR Pathfinding AI for HTML5 Canvas Games](http://buildnewgames.com/astar/)
