@@ -12,7 +12,7 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
   * [Flux](#flux)
   * [Relay](#relay)
   * [Immutable.js](#immutablejs)
-  * [Service Workers](#serviceworkers)
+  * [Service Workers](#service-workers)
   * [WebAudio](#webaudio)
   * [WebAssembly](#webassembly)
   * [WebGL](#webgl)
