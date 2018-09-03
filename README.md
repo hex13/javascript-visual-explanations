@@ -152,3 +152,5 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 * [Regexly](https://regexly.chipto.io/)
 #### Rx.js 
 * [Rx Visualizer](https://rxviz.com/)
+#### WebAudio
+* [Web Audio Playground](http://webaudioplayground.appspot.com/#)
