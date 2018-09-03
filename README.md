@@ -12,6 +12,7 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
   * [Flux](#flux)
   * [Relay](#relay)
   * [Immutable.js](#immutablejs)
+  * [WebAudio] (#webaudio)
   * [WebAssembly](#webassembly)
   * [WebGL](#webgl)
   * [Webpack](#webpack)
@@ -96,6 +97,11 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 ## Immutable.js
 * [Immutable.js Tutorial - The Advantages of Using Immutable.js](https://www.youtube.com/watch?v=cHKG4b2XNig)
 * [Using Immutable js With React](https://www.youtube.com/watch?v=D70Bk_PWmEE)
+
+## WebAudio 
+
+* [JavaScript Systems Music](https://teropa.info/blog/2016/07/28/javascript-systems-music.html)
+* [Basic concepts behind Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Basic_concepts_behind_Web_Audio_API)
 
 ## WebAssembly
 * [Lin Clark: A Cartoon Intro to WebAssembly | JSConf EU 2017](https://www.youtube.com/watch?v=HktWin_LPf4)
