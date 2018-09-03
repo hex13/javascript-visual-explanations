@@ -12,6 +12,7 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
   * [Flux](#flux)
   * [Relay](#relay)
   * [Immutable.js](#immutablejs)
+  * [Service Workers](#serviceworkers)
   * [WebAudio](#webaudio)
   * [WebAssembly](#webassembly)
   * [WebGL](#webgl)
@@ -97,6 +98,11 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 ## Immutable.js
 * [Immutable.js Tutorial - The Advantages of Using Immutable.js](https://www.youtube.com/watch?v=cHKG4b2XNig)
 * [Using Immutable js With React](https://www.youtube.com/watch?v=D70Bk_PWmEE)
+
+## Service Workers
+
+* [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/primers/service-workers/)
+* [The Service Worker Lifecycle](https://developers.google.com/web/fundamentals/primers/service-workers/lifecycle)
 
 ## WebAudio 
 
