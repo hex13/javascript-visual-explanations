@@ -147,6 +147,8 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 #### Dependencies / Codebase / Bundling
 * [Madge - Create graphs from your CommonJS, AMD or ES6 module dependencies](https://github.com/pahen/madge)
 * [Webpack Visualizer](https://chrisbateman.github.io/webpack-visualizer/)
+#### HTML/CSS
+* [Interactive Flex Editor](http://www.csstutorial.org/flex-both.html)
 #### Regular expressions
 * [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)
 * [Regexly](https://regexly.chipto.io/)
