@@ -60,6 +60,7 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 * [JavaScript Reactivity Explained Visually](https://www.youtube.com/watch?v=7Cjb7Xj8fEI)
 * [Learn to combine RxJs sequences with super intuitive interactive diagrams](https://blog.angularindepth.com/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams-20fce8e6511)
 * [What is an Observable?](https://www.youtube.com/watch?v=XbOuCBuQepI)
+* [RxJS Operators for Dummies: forkJoin, zip, combineLatest, withLatestFrom](https://scotch.io/tutorials/rxjs-operators-for-dummies-forkjoin-zip-combinelatest-withlatestfrom)
 
 ## React
 * [Lifecycle Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
