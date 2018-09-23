@@ -148,6 +148,8 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 #### Dependencies / Codebase / Bundling
 * [Madge - Create graphs from your CommonJS, AMD or ES6 module dependencies](https://github.com/pahen/madge)
 * [Webpack Visualizer](https://chrisbateman.github.io/webpack-visualizer/)
+#### GraphQL
+* [GraphQL editor - visual node editor for GraphQL](https://github.com/slothking-online/graphql-editor)
 #### HTML/CSS
 * [Interactive Flex Editor](http://www.csstutorial.org/flex-both.html)
 #### Regular expressions
