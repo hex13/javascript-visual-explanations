@@ -28,6 +28,7 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 * [CodeAnalogies Blog - Visual explanations of HTML, CSS and JavaScript concepts](https://blog.codeanalogies.com/)
 * [Dev Doodles](https://www.instagram.com/dev_doodles/)
 * [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
+* [Inside look at modern web browser (part 1)](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
 * [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 * [Javascript (ES6) Generators — Part I: Understanding Generators](https://medium.com/@hidace/javascript-es6-generators-part-i-understanding-generators-93dea22bf1b)
 #### JavaScript Engines
