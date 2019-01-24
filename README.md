@@ -24,6 +24,7 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 
 ## General programming / JavaScript 
 
+* [Understanding the Almighty Reducer](https://css-tricks.com/understanding-the-almighty-reducer/)
 * [Bubbling and Capturing in JavaScript](https://www.youtube.com/watch?v=3gNLqmqVWHo)
 * [CodeAnalogies Blog - Visual explanations of HTML, CSS and JavaScript concepts](https://blog.codeanalogies.com/)
 * [Dev Doodles](https://www.instagram.com/dev_doodles/)
@@ -132,6 +133,7 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 * [You Got This! Zine - Making web apps with Node.js](https://glitch.com/you-got-this/)
 
 ## HTML/CSS
+* [A Nerd’s Guide to Color on the Web](https://css-tricks.com/nerds-guide-color-web/)
 * [Explaining CSS Specificity — Estelle Weyl — Frontend Masters](https://www.youtube.com/watch?v=SLC83iesr60)
 * [Guidelines - Material Design](https://material.io/design/guidelines-overview/)
 #### Flex
