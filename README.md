@@ -143,6 +143,8 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 * [Grid by Example](https://gridbyexample.com/examples/)
 
 ## Tools
+#### Project Understanding
+* [Project Explorer](https://sdras.github.io/project-explorer-site/)
 #### AST
 * [JavaScript AST Visualizer](http://resources.jointjs.com/demos/javascript-ast)
 * [AST Explorer](https://astexplorer.net/)
