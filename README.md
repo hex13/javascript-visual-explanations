@@ -138,6 +138,7 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 * [Explaining CSS Specificity — Estelle Weyl — Frontend Masters](https://www.youtube.com/watch?v=SLC83iesr60)
 * [Guidelines - Material Design](https://material.io/design/guidelines-overview/)
 #### Flex
+* [Flexbox Ninja](https://flexbox.ninja/)
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Flexbox: The Animated Tutorial](https://medium.freecodecamp.org/flexbox-the-animated-tutorial-263e7d8864e5)
 #### Grid
