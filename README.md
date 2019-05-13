@@ -31,6 +31,7 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 * [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 * [How to Remove Array Duplicates in ES6](https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c)
 * [Inside look at modern web browser (part 1)](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+* [JavaScript Array Explorer](https://sdras.github.io/array-explorer/)
 * [JavaScript Getter-Setter Pyramid](https://staltz.com/javascript-getter-setter-pyramid.html)
 * [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 * [Javascript (ES6) Generators — Part I: Understanding Generators](https://medium.com/@hidace/javascript-es6-generators-part-i-understanding-generators-93dea22bf1b)
@@ -44,7 +45,7 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 
 #### Functional Programming
 * [Javascript Functor, Applicative, Monads in pictures](https://medium.com/@tzehsiang/javascript-functor-applicative-monads-in-pictures-b567c6415221)
-
+* [Learn Ramda](https://davesnx.github.io/learn-ramda/)
 #### Web protocols
 * [HTTP2 and Front-End Performance with Mark Nottingham](https://www.youtube.com/watch?v=GIDXISQs67w)
 * [How does HTTPS provide Encryption? | The Curious Engineer](https://www.youtube.com/watch?v=w0QbnxKRD0w)
