@@ -24,6 +24,7 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 
 ## General programming / JavaScript 
 
+* [Map, Filter and Reduce – Animated](https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47)
 * [Understanding the Almighty Reducer](https://css-tricks.com/understanding-the-almighty-reducer/)
 * [Bubbling and Capturing in JavaScript](https://www.youtube.com/watch?v=3gNLqmqVWHo)
 * [CodeAnalogies Blog - Visual explanations of HTML, CSS and JavaScript concepts](https://blog.codeanalogies.com/)
