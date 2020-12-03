@@ -122,7 +122,7 @@ This repo contains links to pages in which concepts from JavaScript/frontend eco
 * [Online Module Summit Part 8: Lin Clark on Web Assembly and ESModules](https://www.youtube.com/watch?v=cKRg6H5_aRE)
 * [WebAssembly ES module integration](https://www.youtube.com/watch?v=qR_b5gajwug)
 
-## WebGl
+## WebGL
 * [WebGL How It Works](https://webglfundamentals.org/webgl/lessons/webgl-how-it-works.html)
 * [WebGL interactive reminder by Mark Green](http://pixelatron.com/coding/webgl/index.html)
 
